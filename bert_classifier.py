@@ -8,7 +8,7 @@ from bert_dataset import CustomDataset
 
 class BertClassifier:
 
-    def __init__(self, model_path, tokenizer_path, n_classes=29, epochs=1, model_save_path='/content/bert.pt'):
+    def __init__(self, model_path, tokenizer_path, n_classes=29, epochs=1, model_save_path='/output/bert.pt'):
         self.model = BertForSequenceClassification.from_pretrained(model_path)
         self.tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
         self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -29,7 +29,7 @@ class BertClassifier:
         self.valid_loader = DataLoader(self.valid_set, batch_size=2, shuffle=True)
 
         # helpers initialization
-        self.optimizer = AdamW(self.model.parameters(), lr=2e-5, correct_bias=False)
+        self.optimizer = AdamW(self.model.parameters(), lr=2e-5, correct_bias=True)
         self.scheduler = get_linear_schedule_with_warmup(
                 self.optimizer,
                 num_warmup_steps=0,
