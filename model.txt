@@ -1,0 +1,2533 @@
+12-перстной	organ	1
+37,7 температура	function	1
+5нок	treatment	1
+ALT	research	1
+CMV	research	1
+COVID-19	disease	1
+Corynebacterium	research	1
+DHEA-S	research	1
+Enterococcus	research	1
+F20.8	disease	1
+HGB	research	1
+HJL	treatment	1
+HSV	research	1
+Hallus valgus	disease	1
+Hb	research	2
+IgM	research	2
+L-тироксин	treatment	1
+L5 - S1	bodypart	1
+MCH	research	1
+MCV	research	1
+RDW	research	1
+Rubella	research	1
+SARS-CoV-2	disease	1
+T4	research	1
+Toxoplasma IgG	research	1
+Toxoplasma gondii	research	1
+Toxoplasma gondii,	research	1
+lg G	research	1
+pH	research	1
+ІФА	research	1
+АST	research	1
+АГ	disease	2
+АД	function	2
+АЛТ	research	1
+АЛТ.Я	research	1
+АТПО	research	1
+Абортов	treatment	1
+Агрегаты кристаллов	research	1
+Адвантаном	treatment	1
+Аденоиды	organ	1
+Аква-марис	treatment	1
+Аксастрол	treatment	1
+Альбуцид	treatment	1
+Анализ крови	unknown	1
+Анализ мочи	research	1
+Аорта	organ	1
+Аромастан	treatment	1
+Арохнаидальная кпста	disease	1
+Атодерм	treatment	1
+Аугментин	treatment	1
+Аутиз	disease	1
+БЭА	disease	1
+Безрезультатно	howbad	1
+Беременности	function	1
+Беременность	function	1
+Берлиприл	treatment	1
+Беспокоит	howbad	1
+Беспокойств	howbad	1
+Болевые	howbad	1
+Болевых	howbad	1
+Болезненная	howbad	1
+Болезнь	disease	1
+Болей	howbad	1
+Боли	howbad	4
+Болит	howbad	4
+Болить	howbad	1
+Боль	howbad	1
+Боткина	disease	1
+Броварах	LOC	1
+ВМС	treatment	1
+ВСД	disease	2
+Вагисан	treatment	1
+Васермана	research	1
+Веко	organ	1
+Ветрянка	disease	1
+Вирус простого герпеса	research	1
+Вирус простого герпеса (HSV)	research	1
+Вифирон	treatment	1
+Вылечили	treatment	1
+ГВ	function	2
+ГИПРИЛ А	treatment	1
+ГЛЖ	disease	1
+Ганглионеврома	disease	1
+Гематокрит	research	1
+Гемоглобин	research	1
+Гепатромбин	treatment	1
+Гинеколог	docspec	2
+Гиниколог	docspec	1
+Гомеопатии	docspec	1
+Грудь	organ	1
+ДАК	disease	1
+ДЕПРЕССИЮ	disease	1
+Давление	function	2
+Дане-35	treatment	1
+Девочке	old	1
+Дерматолог	docspec	1
+Детралекса	treatment	2
+Диабетон	treatment	1
+Диеты	treatment	1
+Дитина	old	3
+Дитині	old	1
+Диффузные общемозговые изменения	disease	1
+Донецке	LOC	1
+Донецкой	LOC	1
+Дочке	old	2
+Живу с парнем	function	1
+Житомир	LOC	1
+Задержка	howbad	1
+Замкнутость	howbad	1
+Заниматься	function	1
+Запаха	howbad	1
+Запломбировали	treatment	1
+Заразилась	disease	1
+Зубки	organ	1
+ИНДИНОЛ	treatment	1
+Игнация-Гомакорд	treatment	1
+Изменилась	howbad	1
+Имунитет	function	1
+Ирс19	treatment	1
+КВЧ-терапия	treatment	1
+КТ	research	7
+КТГ	research	1
+Канефрон	treatment	1
+Кардиолог	docspec	1
+Кардиомиопатия	disease	1
+Кашель	howbad	1
+Кератит	disease	1
+Киеве	LOC	4
+Киеве.	LOC	1
+Киеве.Заранее	LOC	1
+Киевом	LOC	1
+Киеву	LOC	1
+Ко-Пренеса	treatment	1
+Кожа	organ	2
+Коньюктивит	disease	1
+Кормлю	howbad	1
+Кормлю	function	1
+Косметолог	docspec	2
+Креона	treatment	1
+Курит	disease	1
+Курю	howbad	2
+Кушаем	function	1
+ЛЕЧИЛИ	treatment	1
+ЛОГОПЕДА	docspec	1
+ЛОР	docspec	1
+Лазолван	treatment	1
+Лезра	treatment	1
+Лезру	treatment	1
+Ловерин	treatment	1
+Лор	docspec	4
+МК	organ	1
+МР	research	1
+МРТ	research	6
+МСHС	research	1
+Малышке	old	1
+Мальчику	old	1
+Маммолог	docspec	1
+Матка	organ	1
+Менструация	function	1
+Месячные	function	3
+Месячных	function	1
+Миофасциальный болевой синдром	disease	1
+Мочи	function	1
+НСТ	research	1
+НЯК	disease	1
+Назонекс	treatment	1
+Нарушение процессов метаболизма	disease	1
+Натальсид	treatment	1
+Не болезненная	howbad	1
+Не болит	howbad	1
+Не было	howbad	1
+Не мутные	howbad	1
+Нейтрофилы	research	1
+Немагу	howbad	1
+Неоперабельный	howbad	1
+Нестабильность	disease	1
+Носом	organ	1
+Нутрилон	treatment	1
+ОАК	research	2
+ОАМ	research	1
+ОРВИ	disease	2
+ОРЗ	disease	1
+Обсыпало	howbad	1
+Ойларум	treatment	1
+Олтар	treatment	1
+Олійка	treatment	1
+Онемение	howbad	1
+Остеома	disease	1
+Отеки	howbad	1
+ПМК	disease	1
+ПРОИЗНОСИТ	howbad	1
+ПСА	research	1
+ПЦР	research	2
+Пантосан	treatment	1
+Паркинсона	disease	1
+Пароксетин	treatment	1
+Педиатр	docspec	1
+Педіатр	docspec	1
+Планирую	howbad	1
+Повышен	howbad	1
+Повышенное	howbad	1
+Полидекса	treatment	1
+Полижинакс	treatment	1
+Порвал	howbad	1
+Посев	research	1
+Почки	organ	1
+Появилась	howbad	2
+Поясничный	bodypart	1
+Преднизолон	treatment	1
+Преждевременная эякуляция	howbad	1
+Проплапс	disease	1
+Просвет	howbad	1
+Проснулась	function	1
+Простат специфический антиген	research	2
+РЕБЕНКУ	old	1
+Рак	disease	1
+Ранку	howbad	1
+Расширение	howbad	1
+Ребенка	old	1
+Ребенку	old	9
+Ребенок	old	2
+Ребёнку	old	3
+Релиф	treatment	1
+Рентген	research	1
+С рождения	unknown	1
+С-реактивный белок	research	1
+СН 1	disease	1
+СОЕ	research	1
+СОЭ	research	1
+СОЭ-норма	research	1
+СПИД	disease	3
+СРК	disease	1
+ССО	disease	1
+Селезенка	organ	1
+Солерон	treatment	1
+Сперрмограмма	research	1
+Стенки	organ	1
+Стреляет	howbad	1
+Сын	old	1
+Сынишке	old	1
+Сыну	old	3
+Т-зона	bodypart	1
+Т-зоны	bodypart	1
+Т3	research	2
+Т3N0M0	disease	1
+Т4	research	2
+Т4 свободный	research	1
+ТИГОФАСТ	treatment	1
+ТС3	research	2
+ТС4	research	2
+ТТГ	research	9
+Тайланде	LOC	1
+Температура	function	2
+Тиодарон	treatment	1
+Тиреотропний гормон	research	1
+Тироксин вільний	research	1
+Тиск	function	1
+Тонорму	treatment	1
+Травм	disease	1
+Троещине	LOC	1
+Тромбоциты	research	1
+УЗД	research	1
+УЗИ	research	12
+Употребляю	disease	1
+Урсолицин	treatment	1
+Учебой	function	1
+ФАГ	treatment	2
+ФГДС	research	1
+ФГДЭС	research	1
+Феро Лек	treatment	1
+Фликс	treatment	1
+ХМТ	treatment	1
+Хамамила	treatment	1
+Харькове	LOC	1
+Хлопчик	old	1
+Храпит	howbad	1
+ЦМВ	research	1
+ЦМВ IgG	research	1
+ЦСХ	disease	1
+Цитомегаловирус	research	1
+Чувствую себя	function	1
+ШЕПЕЛЯВИТ	howbad	1
+Шейный	bodypart	1
+Шишки	disease	1
+ЩЖ	organ	1
+ЭКГ	research	3
+ЭХО	research	2
+Эглонил	treatment	1
+Эндокринолог	docspec	1
+Энерлив	treatment	1
+Энтеросгель	treatment	1
+Эреспал	treatment	1
+Эритроциты	research	1
+Эхокардиографию	research	1
+аборт	treatment	1
+агрессии	howbad	2
+адаптол	treatment	1
+аденоидит	disease	1
+аденоидита	disease	1
+аденоидная вегетация	disease	1
+аденоиды	organ	1
+аденоиды	disease	1
+аденокарциномы	disease	1
+аденома	disease	1
+адьшка	howbad	1
+акнекутана	treatment	1
+активная	howbad	2
+активных	howbad	1
+алергик	disease	1
+алзопил	treatment	1
+аллергии	disease	4
+аллергик	disease	1
+аллергический	disease	1
+аллергический энтероколит	disease	1
+аллергическим	disease	1
+аллергического	disease	1
+аллергическую реакцию	disease	1
+аллергию	disease	1
+аллергия	disease	7
+аллерголога	docspec	1
+аллергологу	docspec	1
+аллргия	disease	1
+алоэ вера	treatment	1
+альбумин	research	1
+амитриптилин	treatment	1
+амитриптилина	treatment	1
+амфетамин	treatment	1
+анализ	research	3
+анализ крови	research	3
+анализ крови-гемоглобин	research	1
+анализ мочи	research	1
+анализа мочи	research	1
+анализе крови	research	1
+анализе мочи	research	2
+анализы	research	1
+анализы на кровь	research	1
+анального	bodypart	1
+анального отверстия	organ	2
+анального отверстия	bodypart	1
+анального отвору	organ	1
+аналіз сечі	research	1
+аневризма	disease	2
+анестезиолог	docspec	1
+анетодермия	disease	1
+анилизы	research	1
+антебиотик	treatment	1
+антибиотик	treatment	5
+антибиотика	treatment	1
+антибиотиков	treatment	3
+антибиотки	treatment	1
+антибіотик	treatment	1
+антидепрессанты	treatment	1
+антикоагулянты	treatment	1
+антирезусный	unknown	1
+антисептиками	treatment	1
+антитела	research	2
+антитела IgG	research	5
+антитела IgM	research	1
+антитіла IgМ	research	1
+антифосфолипидный синдром	disease	1
+ануса	organ	1
+анусе	organ	1
+анусе.и	organ	1
+аортальный стеноз	disease	1
+аорты	organ	4
+аппендицита	disease	1
+аппетита	function	1
+аппетита.А	function	1
+арахноидальная киста	disease	1
+арахноидальной кисте	disease	1
+артерии	organ	1
+артерий	organ	1
+аскариди	disease	1
+аскорутин	treatment	1
+аспирина.Не	treatment	1
+астегматизм	treatment	1
+астеноспермия	disease	1
+астматик	disease	1
+астму	disease	1
+ателектазом	disease	1
+атопический дерматит	disease	2
+аугментина	treatment	1
+аутоиммунного	unknown	1
+афлубин	treatment	2
+бак посев	research	1
+бак посева мочи	research	1
+бак-посева	research	1
+бакпосев	research	1
+бактерии	research	3
+бактерий	research	2
+бактериофагами	treatment	1
+бактериофагов	treatment	1
+барабанных перепонок	organ	1
+бегать в туалет	function	1
+бедер	bodypart	1
+бедра	bodypart	4
+бедре	bodypart	1
+без	howbad	21
+безделия	howbad	1
+безответственна	howbad	1
+безпокоит	howbad	1
+белковых фракций	research	1
+белок	research	6
+белые	howbad	1
+белыми точками	howbad	1
+бельма	disease	1
+бензил бензоата	treatment	1
+беременеть	function	1
+беременна	function	5
+беременная	function	2
+беременности	function	18
+беременность	function	12
+беременнось	function	1
+берменность	function	1
+бесплодие	disease	1
+бесплодие2	disease	1
+беспокоит	howbad	7
+беспокоиться	howbad	1
+беспокоят	howbad	3
+бета блокаторы.Не	treatment	1
+бешенстве	disease	1
+биопсия	research	1
+биохимии крови	research	1
+биться	howbad	1
+бифунгин	treatment	1
+близорукость	disease	2
+блокаду	treatment	1
+бляшки	howbad	1
+бляшки	disease	1
+бок	bodypart	2
+болевых	howbad	1
+болезненная	howbad	1
+болезненное	howbad	2
+болезненных	howbad	1
+болезни	disease	1
+болезни Паркинсоне	disease	1
+болезнь	disease	1
+болезнь	howbad	1
+болезнь Лайма	disease	1
+болей	howbad	1
+болела	howbad	5
+болело	howbad	1
+болеть	howbad	4
+боли	howbad	25
+болит	howbad	18
+болит.теперь	howbad	1
+болить	howbad	2
+боль	howbad	22
+боль.сухость	howbad	1
+больно	howbad	6
+больше	howbad	8
+болью	howbad	3
+болючий	howbad	1
+болями	howbad	2
+болят	howbad	1
+болят.а	howbad	1
+болях	howbad	1
+боліти	howbad	2
+бородавок	disease	1
+боюсь	howbad	1
+бояться	howbad	1
+брекеты	treatment	1
+брекетів	treatment	1
+брикетами	treatment	1
+брикеты	treatment	1
+брови	organ	1
+бронхиальной	disease	1
+бронхитом	disease	1
+бронхоскопию	research	1
+бронхоскопия	research	1
+бронхіт	disease	1
+брюшной полости	organ	1
+бугорок	howbad	1
+бугристая	howbad	1
+бурсита	disease	1
+быстрая	howbad	1
+быстро	howbad	4
+бьется	howbad	2
+білок	research	1
+біль	howbad	4
+в низу живота	bodypart	1
+в норме	howbad	18
+в туалет по большому	function	1
+вавка	howbad	2
+вагинальный	organ	1
+вакцинацией	treatment	1
+вальгусной деформации	disease	1
+васкулите	disease	1
+вдарилась	howbad	1
+вдохнуть	function	1
+веду себя	howbad	1
+веках	organ	2
+веки	organ	1
+веко	organ	3
+вернулись	treatment	1
+вес	function	10
+веса	function	1
+весе	function	1
+веселая	howbad	1
+вешу	function	2
+вздутием	howbad	1
+вздутия	howbad	1
+виброцил	treatment	1
+видения	howbad	1
+вижу	function	3
+вимовляю	function	1
+виртуального друга	howbad	1
+вирус	disease	1
+вирус	howbad	1
+вирусной инфекции	disease	1
+вирівнювання	treatment	1
+висип	howbad	1
+висипка-спершу	howbad	1
+виски	bodypart	1
+височной	bodypart	1
+височной	organ	1
+витамина Д	treatment	1
+витамины	treatment	2
+вичесувати	treatment	1
+влагалише	organ	1
+влагалища	organ	2
+влагалище	organ	1
+влечения	function	1
+вливания крови	treatment	1
+вмешательства	treatment	1
+внизу	bodypart	2
+внизу живота	bodypart	2
+внимание	function	1
+внутренних органов	organ	1
+внутриматочная спираль	treatment	1
+во мне	howbad	1
+во рту	organ	1
+вобензим	treatment	1
+водянистими пузырьками	howbad	1
+возбуждатся	function	1
+возбуждения	howbad	1
+волос	organ	2
+волосики	organ	1
+волосом.я	organ	1
+волосся	organ	1
+волосы	organ	7
+ворміл	treatment	1
+вормілу	treatment	1
+воспаления	disease	1
+воспаленные	howbad	1
+воспалительные	disease	1
+воспалительных	disease	1
+воспаляются	disease	1
+восстановилось	howbad	1
+восстановление	treatment	1
+впадинка	howbad	1
+всего	howbad	1
+всем теле	howbad	1
+вспомнить	function	1
+встречаясь	function	1
+встрясок	howbad	1
+вуздечко	organ	1
+вуха	organ	1
+выгинается	howbad	1
+выговаривать	function	1
+выделение	howbad	2
+выделении	howbad	1
+выделений	howbad	1
+выделений нет	howbad	1
+выделения	howbad	8
+вылечить	treatment	8
+выпадают	howbad	1
+выпирают	howbad	1
+выпускать	howbad	1
+выпьет	howbad	1
+вырвал	howbad	1
+выровнять	treatment	1
+вырос	howbad	1
+вырыгала	howbad	1
+выскочили	howbad	1
+высокий	howbad	1
+высоким	howbad	1
+высокой	howbad	2
+высоком	howbad	1
+выступает	howbad	1
+высыпания	howbad	3
+высыхать	howbad	1
+вытягивания	treatment	1
+г.Запорожье	LOC	1
+газы	howbad	1
+гайморита	disease	2
+галлюцинации	disease	2
+гамма глобулин	research	1
+ганатон	treatment	1
+ганглионеврому	disease	1
+гастрит	disease	1
+гастродуоденит	disease	1
+гастроэзофагеальная	disease	1
+гастроэнтерологу	docspec	1
+гексикон	treatment	1
+гематокрит	research	2
+гематолога	docspec	1
+гематурией	disease	1
+гематурии	disease	1
+гемморой	disease	1
+гемморроя	disease	1
+гемоглобин	research	4
+геморой	disease	1
+геморою	disease	1
+геморрагии	disease	1
+геморрагический синдром	disease	1
+геморрой	disease	5
+геморроя	disease	1
+гениколог	docspec	1
+гениталиями	organ	1
+гепариновая мазь	treatment	1
+гепатологу	docspec	1
+гепатромбин	treatment	1
+гептрал	treatment	1
+герпес	disease	3
+герпес	research	1
+герпеса	disease	1
+герпесе	disease	1
+гидронефроз	disease	1
+гидроцефалии	disease	1
+гинеколог	docspec	2
+гинеколога	docspec	2
+гинекологии	docspec	2
+гипертоник	disease	1
+гипертоническая болезнь	disease	1
+гипертония	disease	1
+гипогликемии	disease	1
+гипоксия	disease	1
+гиполимидемические	treatment	1
+гипоплазия	disease	2
+глаз	organ	8
+глаза	organ	6
+глазами	organ	1
+глазах	organ	1
+глазик	organ	1
+глазками	organ	1
+глазки	organ	1
+глазное дно	organ	2
+глазных	organ	1
+глазом	organ	3
+глазу	organ	2
+гланды	organ	1
+глаукоме	disease	1
+глеваха	LOC	1
+глисты	disease	1
+глобулина	research	1
+гломерулонефрит	disease	1
+глотании	function	1
+глубокий	howbad	2
+гниди	disease	1
+гной	howbad	2
+гнойник	disease	1
+гнойнички	howbad	1
+гноя	howbad	1
+говорит	function	1
+говорить	function	2
+голени	bodypart	1
+голень	bodypart	1
+голова	bodypart	9
+голове	bodypart	6
+головка	organ	2
+головке	organ	1
+головке члена	organ	1
+головки	organ	2
+головку	bodypart	2
+головная	bodypart	1
+головного мозга	organ	4
+головного мозку	organ	1
+головную	bodypart	1
+головные	bodypart	4
+головными	bodypart	1
+головных	bodypart	1
+головокружение	howbad	1
+головокружения	howbad	1
+головою	bodypart	1
+голову	bodypart	3
+головы	bodypart	2
+головы.Что	bodypart	1
+голода	howbad	2
+голос	function	3
+голоса	howbad	1
+голосом	function	1
+голосочек	function	1
+гомеопатичной	docspec	1
+горла	organ	1
+горле	organ	4
+горло	organ	4
+гормон	research	1
+гормональные	treatment	1
+гормональный	treatment	1
+гормоны	research	5
+горошину	howbad	1
+гортани	organ	1
+грибок	disease	2
+грип	disease	1
+громко	howbad	2
+грублю	howbad	1
+грубоватым	howbad	1
+грудей	organ	1
+груди	bodypart	1
+груди	organ	9
+грудная клетка	bodypart	1
+грудничка	old	1
+грудного кормления	function	1
+грудного молока	function	1
+грудной	bodypart	1
+грудной клетке	bodypart	1
+грудной клетки	bodypart	1
+грудным молоком	function	1
+грудь	organ	3
+грудью	organ	3
+грыжу шморля	disease	1
+губ	organ	1
+губах	organ	1
+губе	organ	1
+губы	organ	5
+гулька	howbad	1
+гульки	howbad	1
+гіпс	treatment	1
+давит	howbad	3
+давится	howbad	1
+давление	function	9
+давлением	function	1
+давления	function	2
+дальтонизм	disease	1
+двигательной	function	1
+двигатильные	function	1
+двигать	function	1
+двигаться	function	1
+девочка	old	1
+девочки	old	1
+девственница	function	1
+девственности	function	1
+дезорганизации корковой ритмики	disease	1
+декларис	treatment	1
+демидролом	treatment	1
+денситометрию	research	1
+депрессия	disease	1
+депульпирования	disease	1
+держатся	howbad	1
+держать	function	2
+держится	howbad	1
+дерматолог	docspec	1
+дернулось	howbad	1
+деситин	treatment	1
+десне	organ	1
+детей	old	3
+детралекс	treatment	1
+детский	old	1
+детский	docspec	1
+детскую	old	1
+дефекации	function	2
+дефекації	function	1
+деформация	howbad	1
+джес	treatment	3
+диабета	disease	2
+диагназом-тревожно-депрессивное	disease	1
+диагностика	research	1
+диагностики	research	2
+диареи	disease	1
+диарея	disease	3
+диатез	disease	1
+диатезах	disease	1
+диете	treatment	1
+диету	treatment	1
+диеты	treatment	1
+дипрессии.Меня	disease	1
+дисбак	disease	1
+дисбактериоз	disease	1
+дискомофорт	howbad	1
+дискомфорт	howbad	4
+дискомфорта	howbad	3
+дисплази	disease	1
+дисплазию	disease	1
+дисплазия	disease	1
+диспорта	treatment	1
+дистания	disease	1
+дистопия	disease	1
+дистрофических	disease	1
+дитина	old	3
+дитини	old	1
+дитинка	old	1
+дифлазон	treatment	1
+дифузный зоб	disease	1
+диффузных	howbad	1
+дишит	function	1
+добре	howbad	2
+добрые	howbad	1
+донечці	old	1
+доньки	old	1
+доплерографию	research	1
+доце	old	1
+дочери	old	7
+дочери 7 месяцев	old	1
+дочка	old	3
+дочке	old	4
+дочки	old	4
+дочурке	old	1
+дочь	old	4
+дрожи	howbad	1
+душат	howbad	1
+душевные	howbad	1
+дырочка	howbad	1
+дыхание	function	1
+дышать	function	4
+дёргалось	howbad	1
+дёсна	organ	1
+дітей	old	1
+евстахиит.Назначено	disease	1
+единоразовый	howbad	1
+експресс тест	research	1
+ел	function	1
+еритроциты	research	1
+еритургию	disease	1
+жалоб	howbad	2
+жаловался	howbad	1
+жаропонижающее	treatment	1
+желтуха.рекомендуют	disease	1
+желудка	organ	6
+желудке	organ	4
+желудок	organ	1
+желудочков	organ	1
+желчнего	organ	1
+желчного пузыря	organ	1
+желчном	organ	1
+желчный пузырь	organ	2
+женских органов	organ	1
+жесткие	howbad	1
+жжение	howbad	5
+жжения	howbad	2
+жжет	howbad	1
+живот	bodypart	3
+живота	bodypart	1
+живота.В	bodypart	1
+животе	bodypart	4
+животик	bodypart	1
+животике	bodypart	1
+животиком	bodypart	1
+жидкий	howbad	2
+жидкий стул	howbad	1
+жидкого	howbad	1
+жирная	howbad	1
+жирной	howbad	1
+забеременела	disease	1
+забеременеть	function	2
+забеременила	function	1
+заберементь	function	1
+забиваются	howbad	1
+заболела	howbad	1
+забываю	howbad	1
+зависимости	disease	1
+зависимостью	disease	1
+завёрнут	howbad	1
+загнуты	howbad	1
+заговариваюсь	howbad	1
+задежку	howbad	1
+задержка	disease	1
+задержка	howbad	1
+задержки	howbad	1
+задерку	howbad	1
+задишка	howbad	1
+задньому проході	organ	1
+задолженность	howbad	1
+задумываться	howbad	1
+задыхаться	howbad	1
+задыхаюсь	howbad	1
+заживает	howbad	1
+зажили	treatment	1
+зажило	howbad	1
+заикается	disease	1
+заикание	disease	1
+закапывания	treatment	1
+закодировался	treatment	1
+закодироваться	treatment	1
+закрываю	function	1
+залоденность	howbad	1
+заложен	howbad	1
+заложена	howbad	1
+заложенного	howbad	1
+заложенности	howbad	3
+замерзает-пятна	howbad	1
+замерзнуть	howbad	1
+замершей	disease	1
+заместительной терапии	treatment	1
+запа	howbad	1
+запах	function	1
+запах	howbad	1
+запаха	howbad	2
+запаху	howbad	1
+запломбировали	treatment	2
+запорамы	howbad	1
+запори	disease	1
+запоры	howbad	3
+запоры	disease	1
+заражения	disease	1
+зарянувалась	treatment	1
+заснуть	function	1
+засыпает	function	1
+заторможенность	howbad	1
+затружненно	howbad	1
+затылке	bodypart	2
+затылок	bodypart	1
+зачатию	function	2
+зачатия	function	1
+защемляется	howbad	1
+звук	function	3
+здраствуйте.ребенку	old	1
+зева	organ	1
+зияет	howbad	1
+злости	howbad	1
+зміщень	howbad	1
+зміщені	howbad	1
+знімають	howbad	1
+золотистый стафилококк	disease	2
+зондирование	research	1
+зрачок	organ	2
+зрение	organ	1
+зрение	function	2
+зрительные	organ	1
+зуб	organ	4
+зуба	organ	3
+зубе	organ	3
+зуби	organ	2
+зубик	organ	1
+зубки	organ	1
+зубна	organ	1
+зубов	organ	2
+зубы	organ	8
+зубів	organ	1
+зуд	howbad	8
+зуда.Помимо	howbad	1
+зудит	function	1
+зустрічаюсь	function	1
+играет	howbad	1
+идейная	howbad	1
+идет	howbad	2
+ижога	disease	1
+избавиться	treatment	3
+избавления	howbad	1
+избегание	howbad	1
+изнасиловали	howbad	1
+изониазида	treatment	1
+икаю	howbad	1
+иммунитет	function	1
+иммуноглобулин	research	1
+имунитета	function	1
+инвалидности	disease	1
+инвалидность	disease	1
+ингибитора активатора плазминогена	research	1
+иногда	howbad	9
+инсулинозависящий	disease	1
+инсульта	disease	1
+инсультов	disease	1
+интересов	howbad	1
+интим	function	1
+интимной зоне	bodypart	1
+интимной области	bodypart	1
+интимном месте	bodypart	1
+интимных отношений	function	1
+интоксикация	disease	1
+инфарктов	disease	1
+инфекции	disease	3
+инфекцию	disease	3
+инфильтрат	disease	1
+инъекций	treatment	1
+ирритации диэнцефальных структур	disease	1
+исключается	howbad	1
+искривление	howbad	1
+испорожнении	function	1
+исправить	treatment	2
+испуга	howbad	1
+испугался	howbad	1
+истерика	howbad	1
+истерит	howbad	1
+исчезают	howbad	1
+ихтиол	treatment	1
+кагоцел	treatment	1
+казалось	howbad	1
+какает	function	1
+кала	function	1
+кале	function	1
+кальций	research	1
+калі	function	1
+камней	howbad	2
+камни	howbad	2
+канди-бене	treatment	1
+кандид	disease	1
+кандидоз	disease	1
+канефрон	treatment	5
+капаем	treatment	1
+капать	treatment	2
+капель	treatment	2
+капли	treatment	2
+капли вигамокс	treatment	1
+каплях	treatment	1
+капризувати	howbad	1
+кардии	organ	1
+кардиограма	research	2
+кардиограмму	research	1
+кардиологу	docspec	1
+кардиопатия	disease	1
+кариес	disease	2
+карсил	treatment	1
+карциноид	disease	1
+карциноиде	disease	1
+касалапость	disease	2
+катаракта	disease	1
+катаракты	disease	1
+качество жизни	function	1
+каша	howbad	1
+кашель	howbad	5
+кашле	howbad	1
+кашлем	howbad	1
+кашля	howbad	3
+кашляет	howbad	1
+кашляю	howbad	1
+кашляє	howbad	2
+кейвер	treatment	1
+кесарево сечение	treatment	1
+кивательной мышцы	organ	1
+кислотность	function	1
+кислячки	howbad	1
+кисты	disease	2
+кисть	organ	2
+кисті	bodypart	1
+кисті	organ	1
+кларетин	treatment	1
+кларитин	treatment	1
+клацид	treatment	1
+клеща	disease	1
+клиторальный	organ	1
+клотримазоловой	treatment	1
+коалугопатия	disease	1
+кодироваться	treatment	1
+кодировки	treatment	1
+кожа	organ	12
+коже	organ	3
+кожей	organ	1
+кожи	organ	3
+кожные	organ	1
+кожный	organ	1
+кожным пробам	research	1
+кожу	organ	3
+колена	bodypart	5
+колене	bodypart	1
+коленками	bodypart	1
+коленной чашечки	bodypart	1
+колено	bodypart	4
+колит	disease	1
+коллоидное серебро	treatment	1
+колоноскопии	research	1
+колотает	howbad	1
+колоть	treatment	3
+коліна	bodypart	1
+кома	howbad	1
+комбинированная	howbad	2
+коме	disease	1
+компьютерной томографии	research	1
+конечностей	bodypart	1
+конкремент	howbad	1
+конкременты	howbad	2
+контакте	function	1
+контрикал	treatment	1
+кончаю	function	2
+кончить	function	1
+конъюктиве	organ	1
+конъюктивит	disease	1
+коньюктевит	disease	1
+коньюктевита	disease	1
+кори	disease	1
+коричневое	howbad	1
+кормила	function	1
+кормилась	function	2
+кормления	function	1
+коронавірус	disease	1
+коронарного синуса	organ	1
+короткая	howbad	1
+коррекции	treatment	1
+коррекцию	treatment	1
+косметолог	docspec	1
+косметологу	docspec	1
+кости	organ	2
+косточек	disease	1
+косточка	organ	2
+костью	organ	1
+костями	organ	1
+крайней плоти	organ	1
+крапивница	disease	1
+красная	howbad	1
+красноватое	howbad	1
+красноватый	howbad	1
+красное	howbad	2
+краснуха	disease	1
+краснуху	disease	2
+красные	howbad	5
+красные.	howbad	1
+креатинин	research	2
+кремом	treatment	2
+креон	treatment	1
+крестце	bodypart	1
+кричать	howbad	1
+крови	organ	7
+крови	howbad	1
+крови	research	1
+крови-ТТГ	research	1
+кровотачат	howbad	1
+кровотечение	howbad	1
+кровотечения	disease	1
+кровотечениями	disease	1
+кровотечі	disease	1
+кровь	howbad	5
+кровь из вены	research	1
+кровь на сахар	research	1
+кровью	howbad	1
+кровянистые	howbad	1
+крові	howbad	1
+кромофарм	treatment	1
+круги	howbad	2
+кружилась	howbad	1
+кружится	howbad	2
+ксанокс	treatment	1
+ксимелин	treatment	1
+купание	treatment	1
+курантил	treatment	1
+кушает	function	1
+кушали	function	1
+кушать	function	1
+кістки	organ	1
+кістці	organ	1
+лавінал	treatment	1
+ладони,	bodypart	1
+лазерное лечение	treatment	1
+лазерной коагуляции	treatment	1
+лазерную шлифовку	treatment	1
+лазолван	treatment	1
+лактации	function	1
+лакун	organ	1
+ларинготрахеит	disease	1
+легенями	organ	1
+легких	organ	2
+легкого	organ	2
+ледокаина	treatment	1
+лежать	howbad	1
+лежать	function	2
+лежит	howbad	1
+лезут	howbad	1
+лейкемоидная реакция	disease	1
+лейкоцитов	research	2
+лейкоциты	research	7
+лепечет	function	1
+лет.Боль	howbad	1
+лечение	treatment	15
+лечения	treatment	15
+лечились	treatment	1
+лечился	treatment	1
+лечится	treatment	4
+лечить	treatment	14
+либодо	function	1
+лидазой	treatment	1
+ликворно-гипертезионный	disease	1
+лимфа узел	organ	1
+лимфатических	organ	1
+лимфогранулематоза	disease	1
+лимфоденит	disease	1
+лимфоузел	organ	1
+лимфоузлов	organ	2
+лимфоциты	research	5
+линзу	treatment	2
+линзы	treatment	2
+липолитики	treatment	1
+лица	bodypart	6
+лице	bodypart	8
+лице.С	bodypart	1
+лицевого нерва	organ	1
+лицевых	bodypart	1
+лицо	bodypart	2
+лишилась	howbad	1
+лоб	bodypart	2
+лобку	bodypart	1
+логопеда	docspec	3
+логопедам	docspec	1
+ломота	howbad	1
+лопаток.Дальше	bodypart	1
+лор	docspec	3
+лора	docspec	1
+лоратадин	treatment	1
+лору	docspec	2
+лоханок	organ	1
+лучше бы он умер	howbad	1
+лысый кружок	howbad	1
+любил	howbad	1
+любил	function	1
+люблю	function	1
+лёгкие	organ	1
+лёгких	organ	2
+ліктьовоі	bodypart	1
+ліктя	bodypart	1
+м\пузыря	organ	1
+магнефар	treatment	1
+мажу	treatment	1
+мажущие	howbad	1
+мазке	research	1
+мазки	research	1
+мазок	research	1
+мазь	treatment	5
+мазью	treatment	2
+макропен	treatment	1
+маленькие	howbad	8
+маленький	howbad	4
+мало	howbad	1
+мало набрав	howbad	1
+маммолога	docspec	1
+маммологу	docspec	1
+марвелон	treatment	1
+марганцовкой	treatment	1
+масками	treatment	1
+массаж	treatment	5
+массаж.Вопрос	treatment	1
+массаже	treatment	1
+мастопатия	disease	1
+мастурбации	function	1
+матки	organ	2
+межбровье	bodypart	1
+межреберная	bodypart	1
+мексидол	treatment	1
+мелеена	disease	1
+мельгамма	treatment	1
+менструацией	function	1
+менструации	function	5
+менструации.Болит	howbad	1
+менструация	function	3
+меньше	howbad	4
+меньшыми	howbad	1
+меня отвергают	howbad	1
+меструация	function	1
+месячными	function	1
+месячных	function	4
+метастаз	disease	1
+метастазами	disease	1
+метотрексат	treatment	1
+метрогил	treatment	1
+мешает	howbad	2
+мигрень	disease	1
+миелофиброз	disease	1
+микоплазму	research	1
+микроглобулин	research	1
+микроелементы	treatment	1
+микроинсульт	disease	1
+микрокардия	disease	1
+микроскопировании	research	1
+микстуру	treatment	1
+миндалине	organ	1
+миндалины	organ	2
+минета	function	1
+миокарда	organ	1
+миому	disease	1
+митрального клапана	organ	1
+много	howbad	8
+мовалис	treatment	1
+мокрота	howbad	1
+мокроте	howbad	1
+мол.жел	organ	1
+мол.железы	organ	1
+молока	function	1
+молочка	function	1
+молочко	function	1
+молочница	disease	1
+молочницы	disease	1
+молочной железы	organ	1
+молочной железы.	organ	1
+моноцыты	research	1
+монурал	treatment	1
+моральная	howbad	1
+моче	function	2
+моче	research	1
+мочевина	research	2
+мочевого пузыря	organ	1
+мочевой	organ	1
+мочевой кислотой	research	1
+мочевой пузырь	organ	2
+мочевом пузыре	organ	1
+мочегонные	treatment	1
+мочеиспускание	function	1
+мочеиспусканием	function	1
+мочеиспускании	function	3
+мочеиспусканию	function	1
+мочеиспускания	function	3
+мочи	function	1
+мочу	function	2
+мрт	research	2
+мужской орган	organ	1
+мукофальк	treatment	1
+мучает	howbad	2
+мучало	howbad	1
+мучался	howbad	1
+мучают	howbad	1
+мышц	organ	1
+мышцах	organ	1
+мышцы	organ	2
+місячних	function	1
+набирали	howbad	1
+набухшее	howbad	1
+надежда	function	1
+надпочечника	organ	2
+надрыв	disease	1
+надрыв	howbad	1
+нажатии	howbad	2
+наживоте	bodypart	1
+назаферон	treatment	1
+налёт	howbad	1
+наліт	howbad	1
+напряжены	howbad	1
+наркозом	treatment	3
+народила	function	1
+нарост	howbad	1
+наросты	howbad	1
+нарушение	howbad	2
+нарушения	howbad	3
+нарыв	howbad	1
+насморг	disease	1
+насморк	howbad	1
+насморк	disease	2
+насморка	disease	1
+настроения	function	1
+натер	howbad	1
+не	howbad	1
+не беспокоил	howbad	1
+не беспокоит	howbad	4
+не более	howbad	1
+не болеет.	howbad	1
+не болело	howbad	1
+не болит	howbad	3
+не болить	howbad	1
+не большой	howbad	1
+не болят	howbad	1
+не было	howbad	12
+не было.	howbad	3
+не было.В	howbad	1
+не в такт	howbad	1
+не вернулась	howbad	1
+не видемся	howbad	1
+не вижу	howbad	1
+не вимовляла	howbad	1
+не вимовляє	howbad	1
+не выделяется	howbad	1
+не вышло	howbad	1
+не выявил	howbad	1
+не говорит	unknown	2
+не дало	howbad	3
+не дерет	howbad	1
+не дышит	howbad	1
+не живу	howbad	1
+не знаю	howbad	8
+не испытывала	howbad	1
+не испытываю	howbad	1
+не кашляла	howbad	1
+не контролирует	howbad	1
+не красное	howbad	1
+не мог	howbad	2
+не могу	howbad	8
+не могу найти	howbad	2
+не можу	howbad	1
+не нарушены	howbad	1
+не общаемся	howbad	1
+не опасно	howbad	1
+не опустилось	howbad	1
+не повышалась	howbad	1
+не поднималась	howbad	1
+не получается	howbad	2
+не помню	howbad	5
+не помогает	howbad	4
+не помогал	treatment	1
+не понимаю	howbad	2
+не похоже	howbad	1
+не правильные	unknown	1
+не производится	howbad	1
+не проходит	howbad	7
+не равнодушен	howbad	1
+не расширена	howbad	1
+не ровные	howbad	1
+не сильный	howbad	1
+не симметничное	howbad	1
+не слышу	howbad	1
+не смог	howbad	1
+не смогу	howbad	1
+не создают	howbad	1
+не сошли	howbad	1
+не сплю	function	1
+не стабильным	howbad	1
+не становится	howbad	1
+не стоит	disease	1
+не считается со мной	howbad	1
+не текут	howbad	1
+не уплотнены	howbad	1
+не утихала	howbad	1
+не фонтан	howbad	1
+не хватать	howbad	1
+не хотелось	howbad	1
+не хочет	howbad	4
+не часто	howbad	1
+не чесались	howbad	1
+не чешется	howbad	1
+не чувствую	howbad	1
+небольшая	howbad	3
+небольшие	howbad	3
+небыло	howbad	3
+неважен	howbad	1
+невозможно	howbad	2
+невралгия	disease	1
+неврит	disease	1
+неврозов	disease	1
+невропатолога	docspec	1
+недели	howbad	1
+недели.Узи	research	1
+недержание	disease	1
+недержание мочи	disease	1
+недомогание	howbad	1
+недостаточность	disease	1
+нейрогенный	disease	1
+нейтрофилы	research	4
+немало	howbad	1
+ненормально	howbad	1
+непереносимость	howbad	1
+неправельный	howbad	1
+неприятные	howbad	2
+неприятный привкус	howbad	1
+нерв	organ	2
+нервной	disease	1
+нервный	howbad	1
+нерегулярный	howbad	1
+нерегулярным	howbad	1
+нет	howbad	29
+нет возможности	howbad	1
+нет друзей	howbad	1
+неуверена в себе	howbad	1
+нефректомии	treatment	1
+нефролог	docspec	1
+нефролога	docspec	1
+нефрологу	docspec	1
+нефропатия	disease	1
+нефропртию	disease	1
+нефроптоз	disease	1
+нехватка воздуха	howbad	1
+ни кашля	disease	1
+ни насморка	disease	1
+нижних конечностей	bodypart	2
+низким	howbad	1
+низорал	treatment	1
+низу живота	bodypart	1
+никого нет	howbad	1
+нимфоманикой	disease	1
+нирок	organ	1
+нитроглицырин	treatment	1
+ног	bodypart	2
+нога	bodypart	3
+ногах	bodypart	2
+ногах.также	bodypart	1
+ноге	bodypart	3
+ноги	bodypart	9
+ноги.Какие	bodypart	1
+ноготь	organ	1
+ногтями	organ	2
+ногу	bodypart	5
+ноет	howbad	2
+ножки	bodypart	3
+ноздря	organ	1
+нольпаза	treatment	1
+нормально	howbad	11
+нормальное	howbad	2
+нормальный	howbad	1
+нормальным	howbad	2
+нормалізувався	howbad	1
+нос	organ	8
+носа	organ	2
+носиком	organ	1
+носом	organ	2
+носу	organ	3
+ночам просыпаюсь	unknown	1
+нпзп	treatment	1
+нужна помощь	howbad	1
+ныть	howbad	1
+нёба	organ	1
+ніжці	bodypart	2
+ніс	organ	1
+об.белок	research	1
+обветрилась	howbad	1
+обезбалюючі	treatment	1
+области бикини	bodypart	1
+облегчить	treatment	2
+облитерирующий Эндартериит	disease	1
+обморок	disease	1
+обострение	disease	2
+обострение	howbad	1
+обострения	howbad	1
+обрабатывать	treatment	1
+образование	disease	2
+образование	howbad	1
+образования	disease	3
+образования	organ	1
+образования	howbad	1
+обратиться	treatment	10
+обратиться	howbad	1
+обструктивный бронхит	disease	1
+общ.ан. крови	research	1
+общении	function	1
+общества	howbad	1
+общий белок70	research	1
+общий иммуноглобулин Е	research	1
+общительная	function	1
+общительный	howbad	1
+обычного	howbad	1
+овуляции	function	2
+овуляции.На	function	1
+одышка	howbad	3
+ожирение	disease	1
+ожог	disease	3
+ожоги	disease	1
+ожоговой болезнью	disease	1
+озноб	howbad	1
+окончанию	howbad	1
+оксалатами	research	1
+онемела	howbad	1
+онемение	howbad	2
+онкологии	docspec	1
+онкологу	docspec	1
+онкомаркер	research	1
+онкохирурга	docspec	1
+опасно	howbad	2
+операции	treatment	11
+операцию	treatment	3
+операция	treatment	7
+операцію	treatment	2
+операція	treatment	1
+оплодотворению	function	1
+опускается	howbad	1
+опух	howbad	1
+опухает	howbad	2
+опухли	howbad	1
+опухло	howbad	3
+опухлость	howbad	1
+опухоли	disease	1
+опущения	disease	1
+орви	disease	1
+орви.в	disease	1
+оргазм	function	2
+оргазме	function	1
+органов малого таза.По	organ	1
+ортопеду	docspec	1
+ослабла	howbad	1
+осложнения	howbad	2
+остеохондроз	disease	2
+остеохондроза	disease	1
+отвлечь	howbad	1
+отек	howbad	1
+отекают	howbad	1
+отеки	howbad	1
+отит	disease	1
+отита	disease	1
+отитом	disease	1
+отказатся	howbad	1
+отклонение	howbad	1
+отклонения	howbad	3
+отключишься	howbad	1
+относился	function	1
+отношения	howbad	1
+оториноларингологу	docspec	1
+отпечатки	howbad	1
+отравлении	disease	1
+отрицательный	howbad	2
+отрыжка	howbad	1
+отслоение сетчатки	disease	1
+отслойки	disease	1
+отсутствие	howbad	2
+отсутствия	howbad	1
+отторжение	howbad	1
+отшелушилась	howbad	1
+отёкшее	howbad	1
+офлоксин	treatment	1
+офтальмологи	docspec	1
+очаговое образование	disease	1
+очаговых	howbad	2
+ощущений	howbad	3
+падает	howbad	3
+падать	howbad	2
+палец	bodypart	5
+пальца	bodypart	1
+пальце	bodypart	1
+пальцев	bodypart	2
+пальцем	bodypart	3
+пальцу	bodypart	1
+пальчики	bodypart	1
+памяти	function	1
+паника	howbad	3
+паника	disease	1
+паническое расстройство	disease	1
+панкреатит	disease	2
+пантенолом	treatment	1
+паніка	howbad	1
+папиллярного рака	disease	1
+паразитов	disease	1
+паразитов	research	1
+паразиты	disease	1
+паралитическая форма	disease	1
+парез	disease	1
+паркинсонизме	disease	1
+пароксизмальная	disease	1
+паха	bodypart	1
+паховой	bodypart	1
+паховой складке	bodypart	1
+паху	bodypart	3
+педиатора	docspec	1
+педиатр	docspec	1
+педиатра	docspec	1
+педиатру	docspec	1
+педиатру	bodypart	1
+педіатр	docspec	1
+пениса	organ	2
+переживаем	howbad	1
+переживания	howbad	1
+перейти	howbad	1
+переключитьь	howbad	1
+перелом	disease	1
+переломі	disease	1
+перенесла операцию	treatment	1
+переохлаждения	disease	1
+перепады	howbad	1
+переспрашивать	howbad	1
+пересушены	howbad	1
+перживаю	howbad	1
+перикардит	disease	1
+пертесса	disease	1
+песок	howbad	1
+печени	organ	1
+печень	organ	2
+печет.У	howbad	1
+печінці	organ	1
+пигментные	howbad	2
+пиелонефрит	disease	4
+пиелонифрит	disease	1
+пил	howbad	3
+пилинг	treatment	1
+пиолонефрит	disease	1
+питанием	function	1
+питаюсь	function	2
+плакал	howbad	1
+плакать	howbad	1
+пластики уздечки	treatment	1
+плаценты	organ	1
+плаче	howbad	1
+плачет	howbad	2
+племянница	old	1
+плеча	bodypart	1
+плече	bodypart	1
+плечевого	bodypart	2
+плечи	bodypart	1
+плечо	bodypart	1
+плод	old	2
+плода	old	3
+плохая	howbad	3
+плохо	howbad	6
+плохо держит	howbad	1
+плохо набираем	howbad	1
+плохого	howbad	1
+плохое	howbad	2
+плохой	unknown	1
+плями	howbad	1
+пневманией	disease	1
+по Нечипоренко	research	1
+по нечипоренко	research	2
+побаливает	howbad	2
+повредил	howbad	1
+повреждения	howbad	1
+повторяет	howbad	1
+повысилось	howbad	1
+повышается	howbad	2
+повышаеться	howbad	1
+повышен	howbad	2
+повышен сахар	howbad	1
+повышение	howbad	1
+повышенная	howbad	1
+повышенное	howbad	2
+подвздошная	bodypart	1
+подвижная	howbad	1
+подергиваний	howbad	1
+подергивания	howbad	1
+подменили	howbad	1
+подменяют	howbad	1
+подмышечный	bodypart	1
+подниматся	howbad	1
+поднялась	howbad	5
+поднятия	howbad	2
+подреберье	bodypart	1
+подреберье.была	bodypart	1
+подрез уздечки	treatment	1
+подрезать	treatment	3
+подскочило	howbad	1
+подстанывать	howbad	1
+подсушенная	howbad	1
+подташнивает	howbad	1
+подташнивать	howbad	1
+подчелюстные	bodypart	1
+подъёма	howbad	1
+поем	function	2
+позвоночника	organ	1
+позвоночнике	organ	1
+позвоночником	organ	1
+позыв	howbad	1
+покакать	function	1
+покалывание	howbad	1
+покалывания	howbad	1
+покой	treatment	1
+покончила с собой	disease	1
+покрасел	howbad	1
+покраснел	howbad	1
+покраснела	howbad	1
+покраснело	howbad	1
+покраснение	howbad	3
+покраснений	howbad	1
+покраснения	howbad	1
+покушала	function	1
+поливитамины	treatment	1
+поликистоз	disease	1
+поликистоз яичников	disease	1
+поликистозе яичников	disease	1
+полипы	disease	1
+полный	howbad	1
+полового	organ	1
+полового акта	function	1
+полового члена	organ	1
+половой акт	function	2
+половой губе	organ	1
+половой жизнью	function	1
+половой щели	organ	1
+половом члене	organ	1
+половую жизнь	function	3
+половых органов	organ	1
+полосканию	treatment	1
+польше	LOC	1
+поліковані	howbad	1
+полікістоз	disease	1
+поліп	disease	1
+помогает	howbad	2
+помогает	treatment	1
+помогал	treatment	1
+понижен	howbad	1
+понижением	howbad	1
+пониженные	howbad	1
+понизилось	howbad	1
+попе	bodypart	1
+поправляться	howbad	1
+попросилась	howbad	1
+поражением	disease	1
+пороки	disease	1
+поры	organ	2
+поры	howbad	2
+порізана	howbad	1
+посеченным	howbad	1
+постоянное	howbad	3
+потеет	howbad	1
+потенцией	function	1
+потеря	howbad	2
+потеря	disease	1
+потливость	howbad	1
+потрескалась	howbad	2
+похода в туалет	function	1
+походе в туалет	function	1
+походить	function	1
+походу в туалет	function	1
+похудеть	howbad	2
+почек	organ	3
+почервоніння	howbad	1
+почка	organ	1
+почках	organ	2
+почки	organ	3
+почки.можно	organ	1
+появился	howbad	9
+появляться	howbad	2
+появляются	howbad	7
+поясница	bodypart	1
+пояснице	bodypart	3
+поясничной	bodypart	1
+превышает	howbad	1
+предсердий	organ	1
+презерватива	treatment	1
+премоляры	organ	1
+препаратов	treatment	3
+пресбиопии	disease	1
+пресса	bodypart	1
+преэклампсии	disease	1
+при ходьбе	function	1
+прибавки	howbad	1
+привести в порядок	treatment	1
+прививка	treatment	1
+прививке?	treatment	1
+привику	treatment	1
+придатками	organ	1
+придумал	howbad	1
+прижгли	treatment	1
+прикорма	function	2
+прикус	function	2
+примочки	treatment	1
+припухність	howbad	1
+присипка	treatment	1
+приступ	howbad	3
+приступах	howbad	2
+приступы	howbad	4
+прищик	howbad	1
+проба Манту	research	1
+пробки	howbad	1
+проблем	howbad	2
+проблем нет	howbad	2
+проблема	howbad	27
+проблемы	howbad	7
+провакцинироваться	treatment	1
+провалы	howbad	1
+провести	howbad	1
+прогестерон	treatment	1
+проглотила	function	1
+проглотила	howbad	1
+прогревание	treatment	2
+продолжалась	howbad	1
+прожилки крови	howbad	2
+прозопарезом	disease	1
+произносить	howbad	1
+прокапать	treatment	1
+проколах	treatment	1
+проколов	treatment	1
+проколол	howbad	1
+прокололи	treatment	2
+проктологу	docspec	1
+пролактин	research	1
+пролапс	disease	1
+промежности	bodypart	3
+промывание	treatment	2
+прооперировали	treatment	2
+пропадают	howbad	1
+пропала	howbad	2
+просить	function	1
+просить	howbad	1
+простатит.Симптоми	function	1
+простату	organ	1
+простуда	disease	1
+простудилась	disease	1
+простудними	disease	1
+простудные заболевания	disease	1
+простуды нет	disease	1
+простыла	disease	1
+просыпаюсь	function	1
+протезированием	treatment	1
+протезированию	treatment	1
+протезы	treatment	3
+протефлазид	treatment	2
+противозачаточные	treatment	1
+проторгол	treatment	1
+профилактики	howbad	1
+процедура	treatment	2
+прошлом	howbad	1
+прыщами	howbad	1
+прыщи	howbad	2
+прыщи.Какими	howbad	1
+прыщики	howbad	3
+прямой кишке	organ	3
+прямої кишки	organ	2
+псило-бальзам	treatment	1
+психиатрической	docspec	2
+психиатров	docspec	1
+психологическая	howbad	1
+психологов	docspec	1
+психоневрологу	docspec	1
+псориазе	disease	1
+пульмонологу	docspec	1
+пульмонології	docspec	1
+пульс	function	1
+пульсирующие	howbad	1
+пункцию	research	3
+пункция	research	1
+пуп	organ	1
+пупка	bodypart	2
+пустоты	howbad	1
+пухнути	howbad	1
+пучит	howbad	1
+пьет	disease	2
+пью	unknown	1
+пью	function	1
+пью таблетки	treatment	1
+пьёт	disease	1
+пясну	bodypart	1
+пясній	bodypart	1
+пятен	howbad	1
+пятки	bodypart	1
+пятна	howbad	7
+пятно	howbad	3
+пятнышка	howbad	1
+пятнышки	howbad	2
+пятнышко	howbad	2
+підвищення	howbad	1
+підрізали	treatment	3
+підшлункової	organ	1
+пільців	bodypart	1
+работает	function	1
+радикулит	disease	1
+развитии	function	1
+развода	howbad	1
+разгибать	function	1
+разговаривать	function	1
+разговорные	function	1
+разговорчивая	function	1
+разговоры	function	1
+раздражает	howbad	1
+раздражение	howbad	2
+раздражения	howbad	2
+разноцветный лишай	disease	1
+рак	disease	9
+рака	disease	2
+раке	disease	1
+рана	disease	3
+ранего	howbad	1
+ранка	howbad	1
+раскрепащенный	howbad	1
+распадом	howbad	1
+расплакаться	howbad	1
+расплывчевость	howbad	1
+рассеянность	howbad	1
+рассосались	treatment	1
+расставания	howbad	1
+расстроен	howbad	1
+расстройство	howbad	1
+растались	function	1
+расти	howbad	1
+растут	function	1
+растут	howbad	1
+растянут	howbad	1
+растёт	function	1
+расширенные	howbad	1
+расширяющие	howbad	1
+рвота	howbad	2
+рвота.Температуры	howbad	1
+рвотой	howbad	2
+рвоты	howbad	1
+ребенка	old	29
+ребенку	old	21
+ребеннку	old	1
+ребенок	old	11
+ребра	bodypart	1
+ребёнка	old	6
+ребёнок	old	3
+ревмо-пробу	research	1
+регивидон	treatment	1
+регулярная	howbad	1
+регулярные	howbad	1
+регургитацией	disease	1
+регургитация	disease	1
+редко	howbad	6
+реже	howbad	3
+резекцией	treatment	1
+резекция	treatment	1
+резец	organ	1
+ректоскопии	research	1
+ренген	research	1
+ренгене	research	1
+рентген	research	5
+рентгенограмме	research	1
+ресниц	organ	1
+респиратурный аллергоз	disease	1
+ретроцеребеллярную арахноидальную кисту	disease	1
+рефлюксная болезнь	disease	1
+речевая	function	1
+речь	function	1
+речью	function	1
+ринит	disease	2
+ринитал	treatment	1
+риск	howbad	1
+ровный	howbad	2
+родила	function	2
+родинку	disease	3
+родить	function	2
+родов	function	8
+роды	function	1
+рожавших	function	1
+рождения	function	4
+рожева	howbad	1
+розового	howbad	1
+ромашке	treatment	1
+рост	function	6
+роста	howbad	1
+рот	organ	2
+рота	organ	1
+рта	organ	3
+рук	bodypart	2
+рука	bodypart	2
+руках	bodypart	5
+руки	bodypart	3
+рукоблудством	function	1
+руку	bodypart	1
+рухнула жизнь	howbad	1
+ручки	bodypart	1
+ручку	bodypart	1
+рушиться	howbad	1
+с кровью	howbad	1
+садиться на горшок	function	1
+сальпингоотит	disease	1
+самоценка	function	1
+сахар	research	1
+сахар крови	research	1
+сахара	research	1
+сахара в крови	research	1
+сахарный диабет	disease	1
+сахарный диабет.Регулярно	disease	1
+сахаром в крови	research	1
+сбиваем	howbad	1
+свечи	treatment	4
+свободный Т4	research	1
+сводит	howbad	1
+своей внешности	howbad	1
+свічок	treatment	1
+сглатывание	function	1
+сдавливает	howbad	1
+сдала кровь	research	1
+сдали кровь	research	2
+сдали мочу	research	1
+сдать анализы	research	1
+сдать кровь	research	3
+сдаче крови	research	1
+сдерла	howbad	1
+себорейный дерматит	disease	1
+седалищной	bodypart	1
+секс	function	5
+секса	function	11
+сексом	function	4
+сексуальная	function	1
+сексуальная жизнь	function	1
+сексуальным контактом	function	1
+секущиеся	howbad	1
+семья	function	1
+семя извержения	function	1
+семяизвержения	function	1
+сенсивит	treatment	1
+септолете	treatment	1
+сердечке	organ	1
+сердца	organ	5
+сердце	organ	6
+сердцебиение	disease	1
+серотонин	research	1
+сетчатки	organ	1
+сечова кислота	research	1
+сечовому каналі	organ	1
+сигарети	howbad	1
+сигмовидной кишки	organ	1
+сидеть	function	1
+сижу	function	2
+сил	function	1
+сильный	howbad	4
+симпотов	howbad	1
+синекод	treatment	1
+синовита	disease	2
+синочку	old	1
+синусит	disease	1
+синусовая тахикардия	disease	1
+синуфорте	treatment	1
+синяки	howbad	2
+сироватка	research	1
+сифилисом	disease	1
+сифылис	disease	1
+сказа	disease	1
+сказать	function	4
+скачит	howbad	1
+склеродермию	disease	1
+скол	howbad	1
+сколиоз	disease	1
+скосилось	howbad	1
+скудный	howbad	1
+слаба	howbad	1
+слабость	howbad	5
+слабостью	howbad	1
+слабые	howbad	1
+слежались	howbad	2
+слезотечение	howbad	1
+слезоточивость	howbad	1
+слизь	howbad	3
+слова-паразиты	howbad	1
+словарный запас	function	2
+сложно	howbad	2
+слуха	function	1
+слуховой проход	organ	1
+слуховые	organ	1
+слышать	function	1
+слышу	function	1
+слюна	function	1
+слюни	function	1
+смокче	function	1
+смотреть	function	1
+сна	function	3
+снизился	howbad	1
+снимки	research	1
+снимок	research	2
+снится	function	1
+сном	function	3
+соединительной ткани	organ	1
+сожаление	howbad	1
+сознание	function	1
+солідаго композитум	treatment	1
+сомневаюсь	howbad	1
+сон	function	2
+сонапакс	treatment	1
+сонливость	howbad	2
+сопит	howbad	2
+соплей	howbad	1
+соплей нет	howbad	1
+сопли	howbad	1
+сосет	function	1
+соскам	organ	1
+соски	organ	2
+сосков	organ	1
+сосуд хирурга	docspec	1
+сосудов	organ	1
+сосудосуживающие	treatment	1
+софрадекс	treatment	1
+сохнуть	howbad	1
+спазмики	howbad	1
+спал	function	1
+спала до нормы	howbad	1
+спать	function	7
+спермограмму	research	1
+спермотозоидов	function	1
+спермы	function	1
+спина	bodypart	1
+спине	bodypart	2
+спинка	bodypart	2
+спину	bodypart	1
+спины	bodypart	1
+спираль	treatment	2
+спить	function	1
+сплю	function	1
+спокійна	howbad	1
+спокійно	howbad	1
+спондилоартроз	disease	1
+спондилолиз	disease	1
+спондилолистез	disease	2
+способность	howbad	1
+спілкування	function	1
+средостении	organ	1
+средостения	organ	1
+ссорюсь	howbad	1
+стало легче	howbad	1
+стало плохо	howbad	1
+статевого акту	function	1
+стафилококи	research	1
+стафилококк	disease	3
+стафилококки	research	1
+столбняка	disease	1
+стоматит	disease	1
+стоматолог	docspec	1
+стоматолога	docspec	1
+стоматологу	docspec	1
+стопа	bodypart	1
+стопу	bodypart	1
+стопы	bodypart	5
+страдала	howbad	3
+страх	howbad	4
+страха	howbad	1
+стребтоцидову	treatment	1
+стрельнет	howbad	1
+стрелять	howbad	1
+стрептококи	research	1
+стрептококк	disease	1
+стрептококк.С	disease	1
+стрептококка	disease	1
+стрептококки	research	1
+стресс	disease	1
+стресса	howbad	1
+стрессов	howbad	1
+стул	function	3
+стула	function	2
+стуле	function	1
+стулом	function	1
+ступня	bodypart	1
+ступнях	bodypart	1
+стянутости	howbad	1
+субфебрилитет	howbad	1
+судинки	howbad	1
+судороги	disease	1
+сустав	organ	2
+сустава	organ	5
+суставах	organ	2
+суставной	organ	1
+суточной моче	research	1
+сухое	howbad	1
+сухой	howbad	1
+сухости	howbad	1
+сходить в туалет	function	1
+съела	function	1
+сыворотка	research	1
+сына	old	5
+сынишку	old	1
+сыночку	old	1
+сыну	old	13
+сыну 3 мес	old	1
+сыпь	howbad	11
+сыпью	howbad	1
+сідницях	bodypart	1
+таблетки	treatment	8
+таблеток	research	2
+тазобедренногно	bodypart	1
+тазобедренного	bodypart	1
+тазобедренных суставов	organ	1
+тамоксифен	treatment	1
+тампоны	treatment	1
+твердый шанкр	disease	1
+текут	howbad	1
+тело	bodypart	3
+телу	bodypart	1
+темечко	bodypart	1
+темпеоатура	function	1
+температры нет	function	1
+температура	function	8
+температура	howbad	1
+температура 37	function	2
+температура 38	function	2
+температура 38,7	function	1
+температура до 37,8	function	1
+температуре	function	1
+температуры	function	1
+терапевта	docspec	1
+терапевту	docspec	1
+тереотоксикоз	disease	1
+терял	howbad	1
+терять, вес	howbad	1
+тест	research	3
+тимолин	treatment	1
+тимома	disease	1
+тиотриазолин	treatment	1
+тиску	function	1
+токсидермия	disease	1
+токсикологии	docspec	1
+токсоплазмоз	research	1
+токсоплазму	unknown	1
+толстом кишечнике	organ	1
+томограммы	research	1
+томографе	research	1
+томографію	research	1
+тонзиллит	disease	2
+тонзиллоэктомия	treatment	1
+тораколюмбалгия	disease	1
+торч	research	1
+точки	howbad	1
+тошнило	howbad	1
+тошнота	howbad	4
+тошнотой	howbad	1
+тошноты	howbad	2
+тошноты	bodypart	1
+травм	disease	1
+травма	disease	2
+травме	disease	1
+травмировал	howbad	1
+трахеи	organ	1
+трахеит	disease	1
+тревога	howbad	1
+тревожное растройство	disease	1
+трепанобиопсии	research	1
+трет	howbad	2
+трещина	disease	2
+трещина	howbad	1
+трещинки	bodypart	1
+трещины	disease	1
+триампур	treatment	1
+триметазидин	treatment	1
+тромб	disease	1
+тромбоцитопения	disease	1
+тромбоциты	research	3
+трубку	treatment	1
+трудно	howbad	2
+трусится	howbad	1
+трусятся	howbad	1
+трясет	howbad	1
+трясёт	howbad	1
+тріщина	disease	1
+тубереулезом	disease	1
+туман	howbad	1
+тяжело	howbad	1
+тяжести	howbad	1
+тяжесть	howbad	1
+убрать	treatment	3
+увеличен	howbad	2
+увеличена	howbad	2
+увеличение	howbad	3
+увеличенная	howbad	1
+увеличенную	howbad	1
+увеличивается	howbad	1
+увеличивала	howbad	1
+увеличился	howbad	2
+уверенности	howbad	1
+увидеть	function	1
+увлечь	howbad	1
+удалена	treatment	1
+удаление нерва	treatment	1
+удаление нервов	treatment	1
+удалении	treatment	1
+удалению	treatment	2
+удаления	treatment	3
+удалены	treatment	1
+удалили	howbad	2
+удалили	treatment	4
+удалить	treatment	2
+удаляет	treatment	1
+удаляли	treatment	1
+ударилась	howbad	1
+удушье	disease	1
+удушье	howbad	1
+уздечка	organ	1
+уздечки	organ	1
+уздечку	organ	2
+узи	research	9
+узловой зоб	disease	1
+укола	treatment	1
+уколоть	treatment	1
+уколы	treatment	3
+укуса клеща	howbad	1
+ультразвуковую доплерографию	research	1
+уменшились	howbad	1
+умер	disease	1
+умру	howbad	1
+упадок	howbad	1
+упал	howbad	1
+упало	howbad	1
+уплотнение	howbad	1
+употреблял	howbad	2
+употребляла	howbad	1
+уреаплазма	disease	1
+урео	research	1
+уреоплазма	disease	1
+урина	function	1
+уролесан	treatment	2
+урологу	docspec	1
+уроплазма	research	1
+урсофальк	treatment	1
+урсофальку	treatment	1
+усиливались.Уже	howbad	1
+успокающее	treatment	1
+успокоились	howbad	1
+успокоительное	treatment	1
+уставать	howbad	1
+устает	howbad	1
+усыпанием	function	1
+утомляемость	howbad	1
+уха	organ	3
+ухе	organ	2
+ухо	organ	4
+уходили	howbad	1
+ухом	organ	1
+уху	organ	1
+ухудшаться	howbad	1
+участились	howbad	1
+учащённое	howbad	1
+ушах	organ	4
+ушей	organ	1
+уши	organ	3
+ушибла	howbad	1
+ушибов	disease	1
+ушками	organ	1
+ушная раковина,	organ	1
+фактора свертывания крови	research	1
+феварин	treatment	1
+феністил гель	howbad	1
+ферменты	treatment	1
+фертильный	function	1
+фиалкой	treatment	1
+фибрилляции	disease	1
+флоксал	treatment	1
+флюконазолом	treatment	2
+фосфатаза	research	1
+фосфатами	research	1
+фосфор	research	1
+фотоэпиляции	treatment	1
+фторхинолов	treatment	1
+фурагин	treatment	1
+хапнула	howbad	1
+хеликобактером	disease	1
+химии	treatment	1
+химиопрофилактика	treatment	1
+химиотерапии	treatment	1
+хир вмешательство	treatment	1
+хирургического	docspec	2
+хирургического вмешательства	treatment	1
+хирургического вмешатнльства	treatment	1
+хирургическую	docspec	1
+хламидии	research	2
+хламидии	disease	1
+хламидиоз	disease	1
+хлоргексид	treatment	1
+хлорофиллипта	treatment	1
+ходил по в туалет	function	1
+ходит в туалет	function	1
+ходить	function	2
+ходьбы	function	1
+хожу в туалет	function	2
+холестерин	research	1
+холестерине	research	1
+холосас	treatment	1
+хорошо	howbad	9
+хофитол	treatment	1
+хочу бросить курить	howbad	1
+хочу от жизни	howbad	1
+хр.гломерулонефрит.мочевой	disease	1
+хрипит	howbad	1
+хромогранин	research	1
+хронический лимфолейкоз	disease	1
+хронический простатит	disease	1
+хрпотсой	howbad	1
+хрупкими	howbad	1
+хрюкание	howbad	1
+хрящевой	organ	1
+худенькая	howbad	1
+худой	howbad	1
+хуже	howbad	2
+хуже всего	howbad	1
+цапнула	howbad	1
+царапины	howbad	1
+церебрастенический	disease	1
+цикл	function	2
+цикла	function	5
+циннаризин	treatment	1
+цистит	disease	2
+цитологию	research	1
+цитомегало-вирус	research	1
+часто	howbad	2
+часто моргает	howbad	1
+частого	howbad	2
+частое	howbad	2
+частые позывы	howbad	1
+частым	howbad	1
+чаще	howbad	3
+челюсти	organ	1
+челюсть	organ	1
+челюстью	organ	1
+челюстью.Что	organ	1
+червона	howbad	1
+червоніють	howbad	1
+черевної порожнини	organ	1
+череде	treatment	1
+черепномозговая травма	disease	1
+черепную ямку	organ	1
+черне	howbad	1
+чесотки	howbad	1
+чешет	howbad	1
+чешется	howbad	3
+чешутся	howbad	1
+чистить	unknown	1
+чистить	function	1
+чистые	howbad	1
+чихает	howbad	1
+член	organ	1
+члена	organ	1
+члене	organ	3
+чувствительная	howbad	2
+чувствительной	howbad	1
+чувствительность	howbad	2
+чувство инородного тела	howbad	1
+чувствую себя	function	1
+шалфея	treatment	1
+шарики	howbad	2
+шатается	howbad	1
+шататься	howbad	1
+шее	bodypart	1
+шеи	bodypart	1
+шейке	organ	1
+шейки матки	organ	1
+шейного	bodypart	1
+шелушение	howbad	2
+шелушением	howbad	1
+шелушиться	howbad	1
+шип	disease	1
+шишка	howbad	1
+шкіри	organ	1
+шмыгать	howbad	1
+шум	howbad	3
+шумы	howbad	1
+щеке	bodypart	1
+щелепи	organ	1
+щечке	bodypart	1
+щз	organ	1
+щиколодки	bodypart	1
+щит жел	organ	1
+щитовидной железы	organ	2
+щитовидной железы.Найдено	organ	1
+щитовидную железу	organ	1
+щоки	bodypart	1
+электрокаутеризацией	treatment	1
+элоком	treatment	1
+элькар	treatment	1
+эмоц	howbad	1
+эмоциональная	howbad	1
+эмульсии	treatment	1
+эндокринолог	docspec	1
+эндокринолога	docspec	1
+эндокринологу	docspec	1
+эндометрий	organ	1
+эндометриоз	disease	2
+эндоротезирование	treatment	1
+эндоскопическую	treatment	1
+эндоскопом	research	1
+энтеросгелькрем	treatment	1
+эозинофилы	research	2
+эозинофильный	research	1
+эозонофилы	research	1
+эпиляцию	treatment	1
+эргоферон	treatment	1
+эретема	howbad	1
+эритромициновой	treatment	1
+эритроциты	research	7
+эрозию	disease	2
+эрозия	disease	1
+эутирокса	treatment	1
+эякуляция	function	1
+ягодиц	bodypart	1
+ягодицеи	bodypart	1
+язва	disease	1
+язвенную болезнь	disease	1
+язвочка	howbad	1
+язвочки	howbad	1
+язву	disease	1
+язвы	disease	2
+язичку	organ	1
+язык	organ	3
+языка	organ	2
+языке	organ	4
+яичко	organ	1
+яичник	organ	1
+яичника	organ	3
+яичниках	organ	1
+яичников	organ	1
+яєчка	organ	1
+їсти	function	1
+їсть	function	2
